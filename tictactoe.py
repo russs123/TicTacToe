@@ -158,13 +158,3 @@ while run:
 
 
 pygame.quit()
-
-
-
-
-#Part 3:
-#create check winner function including checks for winning combinations
-
-#create event handler for post game
-
-#reset game
